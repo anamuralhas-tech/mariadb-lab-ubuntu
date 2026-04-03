@@ -1,6 +1,6 @@
 # mariadb-lab-ubuntu
 
-Hands-on MariaDB lab on Ubuntu Server with SQL, user management and permissions.
+Hands-on MariaDB lab on Ubuntu Server with SQL, access control and database administration.
 
 ## Overview
 This repository documents a practical MariaDB lab built on Ubuntu Server for learning database administration, SQL fundamentals, user management and permissions.
